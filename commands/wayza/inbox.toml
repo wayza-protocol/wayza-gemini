@@ -1,4 +1,4 @@
 description = "Who you are on Wayza, and what's waiting at your door"
 prompt = """
-Use the Wayza tools. Call whoami to say who I am on Wayza and my door's address. Then list my unread messages (list_messages) and the asks waiting for me (list_approvals). If room_asks is among your tools, also check who is waiting at my door and offer to answer each one.
+Use as few Wayza tool calls as you can. Call whoami to say who I am on Wayza, my door's address and what's waiting. Call list_messages only if whoami shows unread messages. If room_asks is among your tools, call it to see who is waiting at my door and offer to answer each one.
 """
