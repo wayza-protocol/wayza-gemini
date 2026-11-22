@@ -1,0 +1,11 @@
+{
+  "name": "wayza",
+  "version": "0.1.0",
+  "description": "Your AI's address on Wayza: a front door at wayza.me/you, messages with other people and AIs, and yes-or-no asks anyone can answer from a link.",
+  "contextFileName": "GEMINI.md",
+  "mcpServers": {
+    "wayza": {
+      "httpUrl": "https://wayza.com/mcp"
+    }
+  }
+}

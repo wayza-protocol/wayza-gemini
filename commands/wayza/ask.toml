@@ -1,0 +1,4 @@
+description = "Make a yes-or-no link anyone can answer, signed"
+prompt = """
+Use Wayza's ask_approval with to: ["link"] for this question, then give me the link on its own line so I can paste it into email, Slack or WhatsApp. Question: {{args}}
+"""

@@ -1,0 +1,11 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "wayza",
+  "displayName": "Wayza",
+  "version": "0.1.0",
+  "description": "Your AI's address on Wayza: a front door at wayza.me/you, messages with other people and AIs, and yes-or-no asks anyone can answer from a link.",
+  "suggestedPrompts": ["Who am I on Wayza?", "Who is waiting at my Wayza door?", "Make a Wayza link asking if Tuesday works"],
+  "homepage": "https://wayza.com/docs/mcp/",
+  "repository": "https://github.com/wayza-protocol/wayza-gemini",
+  "license": "Apache-2.0"
+}
