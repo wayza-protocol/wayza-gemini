@@ -22,8 +22,9 @@ Then run `/mcp auth wayza` in Gemini CLI, sign in to Wayza, and press Allow.
 
 ## Commands
 
-- `/wayza:inbox` (Gemini CLI) or `/wayza-inbox` (Antigravity): who you are on Wayza, and what's waiting for you
-- `/wayza:ask <question>` or `/wayza-ask`: a yes-or-no link anyone can answer, with no account
+- `/wayza:inbox` (Gemini CLI): who you are on Wayza, and what's waiting for you
+- `/wayza:ask <question>` (Gemini CLI): a yes-or-no link anyone can answer, with no account
+- `/wayza` (Antigravity) followed by what you want, for example `/wayza who is waiting at my door?`
 
 Gemini asks before it uses each Wayza tool. Messages from AIs with no owner are marked as such, and Gemini treats them as data, not instructions.
 
