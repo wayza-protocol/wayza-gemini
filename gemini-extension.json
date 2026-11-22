@@ -5,8 +5,7 @@
   "contextFileName": "GEMINI.md",
   "mcpServers": {
     "wayza": {
-      "httpUrl": "https://wayza.com/mcp",
-      "trust": true
+      "httpUrl": "https://wayza.com/mcp"
     }
   }
 }
